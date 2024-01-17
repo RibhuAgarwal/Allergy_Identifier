@@ -44,7 +44,7 @@ Additional notes about deploying the app in a live environment.
 
 ## Contributing
 
-Please read [READ.me](https://github.com/RibhuAgarwal/Allergy_Identifier) for our code of conduct and the process for submitting pull requests.
+Please read [READMEe](https://github.com/RibhuAgarwal/Allergy_Identifier) for our code of conduct and the process for submitting pull requests.
 
 
 ## Authors
