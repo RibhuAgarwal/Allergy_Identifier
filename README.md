@@ -1,50 +1,53 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Allergy Identifier - README</title>
-</head>
-<body>
-    <h1>Allergy Identifier</h1>
-    <p>Allergy Identifier is an innovative Android application that aims to make allergy management more accessible and informed. It helps users identify potential allergens in their surroundings and provides valuable information to manage allergic reactions effectively.</p>
-    
-    <h2>Features</h2>
-    <ul>
-        <li><strong>Allergen Detection:</strong> Utilizes advanced algorithms to identify common allergens in the user's environment.</li>
-        <li><strong>Information Database:</strong> Access a comprehensive database of allergens, including symptoms and management tips.</li>
-        <li><strong>User-Friendly Interface:</strong> Easy-to-navigate design for quick access to vital information.</li>
-        <li><strong>Personalized Alerts:</strong> Customizable alerts for specific allergens and environmental conditions.</li>
-        <li><strong>Community Support:</strong> Connect with a community of users for shared experiences and advice.</li>
-    </ul>
+# Allergy Identifier
 
-    <h2>Getting Started</h2>
-    <h3>Prerequisites</h3>
-    <p>What you need to install the software:</p>
-    <p>Example: Android Studio, SDKs, etc.</p>
+Allergy Identifier is an innovative Android application that aims to make allergy management more accessible and informed. It helps users identify potential allergens in their surroundings and provides valuable information to manage allergic reactions effectively.
 
-    <h3>Installing</h3>
-    <p>Steps to get a development environment running:</p>
-    <p>Example: Clone the repo, import into Android Studio, etc.</p>
+[![Watch the video](https://img.youtube.com/vi/dkWxNrA8gYs/maxresdefault.jpg)](https://www.youtube.com/watch?v=dkWxNrA8gYs)
 
-    <h2>Running the Tests</h2>
-    <p>How to run the automated tests:</p>
-    <p>Example: Gradle commands, test suites, etc.</p>
+## Features
+- **Allergen Detection**: Utilizes advanced algorithms to identify common allergens in the user's environment.
+- **Information Database**: Access a comprehensive database of allergens, including symptoms and management tips.
+- **User-Friendly Interface**: Easy-to-navigate design for quick access to vital information.
+- **Personalized Alerts**: Customizable alerts for specific allergens and environmental conditions.
+- **Community Support**: Connect with a community of users for shared experiences and advice.
 
-    <h2>Deployment</h2>
-    <p>Additional notes about deploying the app in a live environment.</p>
+## Getting Started
 
-    <h2>Built With</h2>
-    <ul>
-        <li>Android Studio - Development platform</li>
-        <li>Firebase - Backend services</li>
-    </ul>
+These instructions will help you get a copy of the project up and running on your local machine.
 
-    <h2>Contributing</h2>
-    <p>Please read CONTRIBUTING.md for our code of conduct and the process for submitting pull requests.</p>
+### Prerequisites
 
-    <h2>Versioning</h2>
-    <p>We use SemVer for versioning. For available versions, see the tags on this repository.</p>
+What you need to install the software:
+- Android Studio
+- SDKs, etc.
 
-    <h2>Authors</h2>
-    <p>Ribhu Agarwal</p>
-</body>
-</html>
+### Installing
+
+Steps to get a development environment running:
+1. Clone the repo.
+2. Import into Android Studio, etc.
+
+## Running the Tests
+
+How to run the automated tests:
+- Gradle commands
+- Test suites, etc.
+
+## Deployment
+
+Additional notes about deploying the app in a live environment.
+
+## Built With
+
+- **Android Studio** - Development platform
+- **Firebase** - Backend services
+
+## Contributing
+
+Please read [READ.me](https://github.com/RibhuAgarwal/Allergy_Identifier) for our code of conduct and the process for submitting pull requests.
+
+
+## Authors
+
+- **Ribhu Agarwal**
+
